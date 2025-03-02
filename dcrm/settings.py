@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'smilezdb',
          'USER': 'root',
-         'PASSWORD': '2Cedicray123@.',
+         'PASSWORD': 'mysql@123.',
          'HOST': 'localhost',
          'PORT': '3306',
     }
